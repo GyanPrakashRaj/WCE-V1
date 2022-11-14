@@ -16,7 +16,6 @@ export default function Testimonials() {
               Share a real <Mark>testimonial</Mark>
               that hits some of your benefits from one of your popular customer.
             </p>
-
             <Avatar
               image={userOneImg}
               name="Sarah Steiner"

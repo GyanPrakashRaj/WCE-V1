@@ -28,10 +28,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Tarang - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Tarang - A technical club of WEST CHAMPARAN ENGINEERING COLLEGE</title>
         <meta
           name="description"
-          content="Tarang is a free landing page template built with next.js & Tailwind CSS"
+          content="Tarang - A technical club of WEST CHAMPARAN ENGINEERING COLLEGE"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -47,14 +47,7 @@ export default function Home() {
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
-      <SectionTitle
-        pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don't forget to add one. Just like this.
-      </SectionTitle>
-      <Video />
+      
       <SectionTitle
         pretitle="Testimonials"
         title="Here's what our customers said">
