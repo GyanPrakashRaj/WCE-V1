@@ -10,7 +10,7 @@ export default function Cta() {
             JOIN OUR NEW EVENT
           </h2>
           <p className="mt-2 font-medium text-white text-opacity-90 lg:text-xl">
-            Don't let your miss this platform out.
+            Don't let yourelf miss out this platform.
           </p>
         </div>
         <div className="flex-shrink-0 w-full text-center lg:w-auto">
